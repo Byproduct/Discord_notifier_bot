@@ -11,7 +11,7 @@ try:
         data = f.readlines()
 except:
     print("Error reading configuration file (discordbot_config.txt).")
-    sys.exit(0)
+    sys.exit(1)
 
 # configuration loaded from discordbot_config.txt
 bot_token = data[4].rstrip()
