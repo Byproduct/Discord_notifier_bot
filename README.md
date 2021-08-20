@@ -8,6 +8,6 @@ It requires Python 3, discord.py (pip install discord.py) and some way, such as 
 
 Firstly, you'll need to set up a bot in the Discord developer portal. A good tutorial is [here](https://realpython.com/how-to-make-a-discord-bot-python/), for example. You'll only need the bot token you'll get when the bot is created. All the other functionality and code in the tutorial, although good to know, are not needed for using this bot.
 
-Secondly, you'll need to know what the numeric ID of your own discord account is. [This is how you'll find it.](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/).
+Secondly, you'll need to know what the numeric ID of your own Discord account is. [This is how you'll find it.](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
 
 When you have these, insert them in discordbot_config.txt, start up the program, and leave it running. Try writing something in "messages.txt" and see if you receive the message personally within a minute.
