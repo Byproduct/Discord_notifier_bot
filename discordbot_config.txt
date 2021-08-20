@@ -1,0 +1,9 @@
+Edit this file to configure the discord bot. 
+When you edit this file, make sure things stay on the same lines. (The configuration is lazily based on line numbers.)
+-----
+Bot token:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Bot owner's discord user id:
+000000000000000000
+How often (in seconds) the bot should check for messages left by other programs:
+60
